@@ -1,0 +1,17 @@
+Data science is a science whose subject of interest is learning from data or data analysis. 
+It is a field to improve something in evidence-based manner. 
+It is an interdisciplinary which combines statistics, programming, visualization, data analysis and big data.
+Data Science is also not just about dealing with enormous volumes of data. 
+According to Data Science Initiative at the University of Michigan, Data Science is a combination of scientific discovery 
+and practices that involves processes like collection of data, management, processing, analysis, visualization and 
+interpretation of huge amounts of data associated with a diverse array of applications such as scientific, translational, etc.
+Though most data science terms match with roles of the applied statistician, data science is more much than that.
+Statistics are a part of what goes on in data science, but not a huge part. 
+The term statistics means the practice of collecting and analyzing numerical data in large quantities. 
+Data scientist is a professional who uses scientific methods to create meaningful insights from the data. 
+Also, a data scientist needs have knowledge in applied machine learning and a professional who is working in applied statistics might not even know that term. 
+Though most of the terms in data science might seem familiar to professionals working in statistics, that knowledge alone wouldn’t be sufficient to land in a job in data science field.
+Data science is an intersection of Machine learning, Artificial Intelligence, Programming, applied statistics and domain knowledge.
+
+References: 
+   https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734 
