@@ -1,0 +1,4 @@
+Markdowns should've been organized well in the homework!
+Everything else looks perfect!
+
+hw: 90
