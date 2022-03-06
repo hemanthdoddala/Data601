@@ -1,0 +1,5 @@
+Well done with HW!
+Please check the attached possible solutions for lab in the discussion board. 
+
+hw: 100
+lab: 80
