@@ -1,0 +1,13 @@
+Most number of flights take off from EWR Airport and least number of flights from LGA
+United airlines has most number of flights and OO airline has least number of flights
+"WN", "FL", "AS", "F9", YV, OO doesnt have any flights from JFK airport
+"VX", "AS", "HA" doesn't have any flights from LGA airport
+"FL", "F9", "HA", "YV" doesn't have any operations from EWR Airport
+"F9", "EV", "FL" has highest carriers have highest departure delays
+"US", "HA" have minimum delays when compared to other airlines
+Flights reaching CAE airport has largest arrival delays
+Number of flights travelling from each airport during weekday is almost same.
+Number of flights travelling in the weekend are less compared to weekday
+"hawaiian airlines" has the fastest speeds among all the carriers
+EWR has highest connectivity to the destination and JFK has the lowest connectivity among the three destinations
+"hawaiian airlines" has longest flights or "hawaiian airlines" flights are travelling great distance when compared to other carriers
